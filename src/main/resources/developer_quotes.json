@@ -1,0 +1,199 @@
+{
+  "developer_quotes": [
+    {
+      "specific": "How it is done is as important as getting it done",
+      "credit": "The Software Craftsman",
+      "creditName": "The Software Craftsman"
+    },
+    {
+      "specific": "Individuals and interactions over process and tools",
+      "credit": "https://agilemanifesto.org/",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "Working software over comprehensive documentation",
+      "credit": "https://agilemanifesto.org/",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "Customer collaboration over contract negotiation",
+      "credit": "https://agilemanifesto.org/",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "Responding to change over following a plan",
+      "credit": "https://agilemanifesto.org/",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software",
+      "credit": "https://agilemanifesto.org/principles.html",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage",
+      "credit": "https://agilemanifesto.org/principles.html",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale",
+      "credit": "https://agilemanifesto.org/principles.html",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "Business people and developers must work together daily throughout the project",
+      "credit": "https://agilemanifesto.org/principles.html",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done",
+      "credit": "https://agilemanifesto.org/principles.html",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation",
+      "credit": "https://agilemanifesto.org/principles.html",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "Working software is the primary measure of progress",
+      "credit": "https://agilemanifesto.org/principles.html",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely",
+      "credit": "https://agilemanifesto.org/principles.html",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "Continuous attention to technical excellence and good design enhances agility",
+      "credit": "https://agilemanifesto.org/principles.html",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "Simplicity--the art of maximizing the amount of work not done--is essential",
+      "credit": "https://agilemanifesto.org/principles.html",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "The best architectures, requirements, and designs emerge from self-organizing teams",
+      "credit": "https://agilemanifesto.org/principles.html",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly",
+      "credit": "https://agilemanifesto.org/principles.html",
+      "creditName": "Agile Manifesto"
+    },
+    {
+      "specific": "In general agile transformations were focussed on the process but not in the technical disciplines which means they did very little to make developers better",
+      "credit": "The Software Craftsman",
+      "creditName": "The Software Craftsman"
+    },
+    {
+      "specific": "Software Craftsmanship is a mindset where developers choose to be responsible for their own careers, constantly learning new tools and techniques and constantly bettering themself. It's about putting responsibility, professionalism, pragmatism and pride back into software development",
+      "credit": "The Software Craftsman",
+      "creditName": "The Software Craftsman"
+    },
+    {
+      "specific": "Not only working software, but also well-crafted software",
+      "credit": "http://manifesto.softwarecraftsmanship.org/",
+      "creditName": "Software Craftsmanship manifesto"
+    },
+    {
+      "specific": "Not only responding to change, but also steadily adding value",
+      "credit": "http://manifesto.softwarecraftsmanship.org/",
+      "creditName": "Software Craftsmanship manifesto"
+    },
+    {
+      "specific": "Not only individuals and interactions, but also a community of professionals",
+      "credit": "http://manifesto.softwarecraftsmanship.org/",
+      "creditName": "Software Craftsmanship manifesto"
+    },
+    {
+      "specific": "Not only customer collaboration, but also productive partnerships",
+      "credit": "http://manifesto.softwarecraftsmanship.org/",
+      "creditName": "Software Craftsmanship manifesto"
+    },
+    {
+      "specific": "Boy scout rule: always leave the code cleaner than when we found it",
+      "credit": "https://www.oreilly.com/library/view/97-things-every/9780596809515/ch08.html",
+      "creditName": "Robert C. Martin"
+    },
+    {
+      "specific": "Decide a task to do, set a timer and do it for 25 minutes focussed and take a short brake for 5 minutes. Repeat until the task is done. Every 4 pomodoros you can take a large break",
+      "credit": "https://en.wikipedia.org/wiki/Pomodoro_Technique",
+      "creditName": "Pomodoro Focus Technique"
+    },
+    {
+      "specific": "Own your own career",
+      "credit": "The Software Craftsman",
+      "creditName": "The Software Craftsman"
+    },
+    {
+      "specific": "Learn to say 'NO'. Don't be a hero and commit to something you might not be able to deliver properly",
+      "credit": "The Software Craftsman",
+      "creditName": "The Software Craftsman"
+    },
+    {
+      "specific": "Rather than construction, programming is more like gardening",
+      "credit": "Pragmatic Programmer",
+      "creditName": "Pragmatic Programmer"
+    },
+    {
+      "specific": "In order to increase business agility and have a good return of investment, keeping code quality high is paramount",
+      "credit": "The Software Craftsman",
+      "creditName": "The Software Craftsman"
+    },
+    {
+      "specific": "Assuming money is of the table, knowledge workers are motivated by autonomy, mastery and purpose",
+      "credit": "Daniel Pink (Drive)",
+      "creditName": "Daniel Pink (Drive)"
+    },
+    {
+      "specific": "Employees tend to be given more authority until they cannot work competently",
+      "credit": "https://en.wikipedia.org/wiki/Peter_principle",
+      "creditName": "The Peter Principle"
+    },
+    {
+      "specific": "Your own career should always take procedure over a career in a company",
+      "credit": "The Software Craftsman",
+      "creditName": "The Software Craftsman"
+    },
+    {
+      "specific": "Traditional skills and experience based jobs descriptions job descriptions are anti-talent and anti-diversity, aside from being terrible predictors of future success",
+      "credit": "The Software Craftsman",
+      "creditName": "Lou Adler"
+    },
+    {
+      "specific": "Having 5 years of experience is different from having 5 times one year of experience",
+      "credit": "The Software Craftsman",
+      "creditName": "The Software Craftsman"
+    },
+    {
+      "specific": "Create a mindmap of how you imagine well-crafted software is for you. The nodes can be maintainability, testability, readability,...",
+      "credit": "The Software Craftsman",
+      "creditName": "The Software Craftsman"
+    },
+    {
+      "specific": "How to convince management? Don't: it is easier tp ask for forgiveness than permission",
+      "credit": "The Software Craftsman",
+      "creditName": "The Software Craftsman"
+    },
+    {
+      "specific": "4 rules of simple design: passes all tests, minimizes all duplication, maximizes clarity and has fewer elements",
+      "credit": "The Software Craftsman",
+      "creditName": "J. B. Rainsberger"
+    },
+    {
+      "specific": "Craftsmanship without pragmatism is no craftsmanship because his primary focus is customer satisfaction",
+      "credit": "The Software Craftsman",
+      "creditName": "The Software Craftsman"
+    },
+    {
+      "specific": "Professionalism, pragmatism, pride",
+      "credit": "The Software Craftsman",
+      "creditName": "The Software Craftsman"
+    }
+  ]
+}
