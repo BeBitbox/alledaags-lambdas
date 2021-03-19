@@ -197,23 +197,51 @@
     },
     {
       "specific": "Architecture represents the significant design decisions that shape a system, where significant is measured by cost of change",
-      "credit": "Agile architecture",
+      "credit": "Clean architecture",
       "creditName": "Grady Booch"
     },
     {
       "specific": "If you think good architecture is expensive, try a bad architecture",
-      "credit": "Agile architecture",
+      "credit": "Clean architecture",
       "creditName": "Brian Foote"
     },
     {
       "specific": "The goal of software architecture is to minimize the human efforts acquired to build and maintain the system",
-      "credit": "Agile architecture",
+      "credit": "Clean architecture",
       "creditName": "Robert C. Martin"
     },
     {
       "specific": "Avoiding mutable components, will also avoid concurrency issues, race conditions and deadlocks",
-      "credit": "Agile architecture",
+      "credit": "Clean architecture",
       "creditName": "Robert C. Martin"
+    },
+    {
+      "specific": "Common reuse principle: don't force users of a component or library to depend on things they don't need",
+      "credit": "Clean architecture",
+      "creditName": "Robert C. Martin"
+    },
+    {
+      "specific": "Design is inevitable. The alternative to good design is bad design, not no design at all",
+      "credit": "Clean architecture",
+      "creditName": "Douglas Martin"
+    },
+    {
+      "specific": "Watch out with diagrams: in the end the code is the model and the model is your code",
+      "credit": "Domain-Driven Design Distilled",
+      "creditName": "Vaughn Vernon"
+    },
+    {
+      "specific": "A good software architect maximizes the decisions not made",
+      "credit": "Clean architecture",
+      "creditName": "Robert C. Martin"
+    },
+    {
+      "specific": "Any organization that designs a software system will produce a design whose structure is a copy of the organization's communication structure",
+      "credit": "Conway's law",
+      "creditName": "Melvin Conway"
+    },
+    {
+      "specific": "kintsugi ,97 java things"
     }
   ]
 }
