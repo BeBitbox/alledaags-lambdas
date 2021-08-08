@@ -241,6 +241,36 @@
       "creditName": "Melvin Conway"
     },
     {
+      "specific": "A good software design is easier to change than a bad design",
+      "credit": "The Pragmatic Programmer",
+      "creditName": "David Thomas, Andrew Hunt"
+    },
+    {
+      "specific": "A good software design is orthogonal: changing one component doesn't affect other components",
+      "credit": "The Pragmatic Programmer",
+      "creditName": "David Thomas, Andrew Hunt"
+    },
+    {
+      "specific": "We estimate our work so we avoid surprises",
+      "credit": "The Pragmatic Programmer",
+      "creditName": "David Thomas, Andrew Hunt"
+    },
+    {
+      "specific": "Put everything in a version-controlled system: the code, your IDE configuration, documentation, bash aliases,... Sharing or reinstalling will no longer be an inconvenience.",
+      "credit": "The Pragmatic Programmer",
+      "creditName": "David Thomas, Andrew Hunt"
+    },
+    {
+      "specific": "Create a failing test before fixing the code.",
+      "credit": "The Pragmatic Programmer",
+      "creditName": "David Thomas, Andrew Hunt"
+    },
+    {
+      "specific": "As a decoupled rule: don't chain method calls of entities inside one function.",
+      "credit": "The Pragmatic Programmer",
+      "creditName": "David Thomas, Andrew Hunt"
+    },
+    {
       "specific": "kintsugi ,97 java things"
     }
   ]
